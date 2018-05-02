@@ -1,0 +1,1 @@
+docker-host-vm  ansible_host=35.231.65.15  ansible_ssh_private_key_file=~/.ssh/google_compute_engine  ansible_ssh_user=mohammedfadin
